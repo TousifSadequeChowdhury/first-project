@@ -13,7 +13,7 @@ using namespace std;
      }
      else{
        cout<<word[0]<<word.length()-2<<word[word.length()-1]<<endl;
-//pull
+//pull2
      }
         }
 
